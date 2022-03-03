@@ -17,6 +17,6 @@ The top three Ricks of all time:
 |age||||
 
 
-<img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/100781871/156584472-66aaa01e-3f08-407e-96a5-089b64c7a152.jpg">
+<img align="left" width="250" height="100" src="https://user-images.githubusercontent.com/100781871/156584472-66aaa01e-3f08-407e-96a5-089b64c7a152.jpg">
 
 [link to source site](https://replit.com/@james54/RICK#index.html)
