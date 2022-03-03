@@ -16,5 +16,5 @@ The top three Ricks of all time:
 
 <details>
 *<summary>Rick Astley</summary>
-(https://user-images.githubusercontent.com/100781871/156579945-0a0b7861-fdb8-45b2-94b9-f7c0b776d47b.gif)
+!(https://user-images.githubusercontent.com/100781871/156579945-0a0b7861-fdb8-45b2-94b9-f7c0b776d47b.gif)
 </details>
