@@ -12,9 +12,9 @@ The top three Ricks of all time:
 
 |   |Rick Astley|Rick Harrison|Rick Sanchez|
 |---|---|---|---|
-|height||||
-|weight||||
-|age||||
+|height|175cm|||
+|weight|70Kg|||
+|DoB|6/2/1966|||
 
 
 <img align="left" width="250" height="100" src="https://user-images.githubusercontent.com/100781871/156584472-66aaa01e-3f08-407e-96a5-089b64c7a152.jpg">
