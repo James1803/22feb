@@ -11,8 +11,11 @@ The top three Ricks of all time:
 ### Stats:
 
 |   |Rick Astley|Rick Harrison|Rick Sanchez|
+|---|---|---|---|
 |height||||
+|---|---|---|---|
 |weight||||
+|---|---|---|---|
 |age||||
 
 
